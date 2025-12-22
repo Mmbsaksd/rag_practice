@@ -1,3 +1,5 @@
 .venv
 .env
 faiss_index
+chroma_db_notebook/
+faiss_index_notebook/
